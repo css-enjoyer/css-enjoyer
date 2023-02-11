@@ -3,6 +3,6 @@
 <h2 align="center">Technologies I'm Using</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,html,css,sass,mysql,php,figma,ps,vscode,eclipse,git,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,react,js,html,css,sass,mysql,php,dotnet,figma,ps,vscode,eclipse,webpack,git,github,bash,stackoverflow" />
   </a>
 </p>
