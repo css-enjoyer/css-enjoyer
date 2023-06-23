@@ -3,7 +3,7 @@
 <h2 align="center">Technologies I'm Using</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,react,js,html,css,sass,bootstrap,tailwind,mysql,php,dotnet,figma,ps,vscode,eclipse,webpack,git,github,bash,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,react,js,html,css,sass,bootstrap,tailwind,mysql,php,dotnet,figma,ps,vscode,eclipse,webpack,git,github,bash,stackoverflow&perline=7" />
   </a>
 </p>
 
